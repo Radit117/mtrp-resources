@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "server": "MTRP",
+  "manifest_version": "1.0.0",
+  "files": {
+    "vehicles": [
+      {
+        "id": "sha256:779cbe23aaf0f57e5d29dba772d26aee0e518aab6345e3a86414fdbea5040edc",
+        "name": "sultan.dff",
+        "path": "vehicles/sultan.dff",
+        "size": 3571712,
+        "sha256": "779cbe23aaf0f57e5d29dba772d26aee0e518aab6345e3a86414fdbea5040edc",
+        "url": "https://github.com/Radit117/mtrp-resources/releases/download/V1.0/sultan.dff",
+        "required": false
+      },
+      {
+        "id": "sha256:896eefc5812c4af469cb2eb5e65cc63bdeefcb57d656cede6fa83ac8e6fdb18d",
+        "name": "sultan.txd",
+        "path": "vehicles/sultan.txd",
+        "size": 3031688,
+        "sha256": "896eefc5812c4af469cb2eb5e65cc63bdeefcb57d656cede6fa83ac8e6fdb18d",
+        "url": "https://github.com/Radit117/mtrp-resources/releases/download/V1.0/sultan.txd",
+        "required": false
+      }
+    ],
+    "skins": [],
+    "textures": [],
+    "audio": [],
+    "maps": [],
+    "configs": [],
+    "misc": []
+  }
+}
