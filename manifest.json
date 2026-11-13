@@ -1,0 +1,15 @@
+
+{
+  "schema_version": 1,
+  "server": "MTRP",
+  "manifest_version": "1.0.0",
+  "files": {
+    "vehicles": [],
+    "skins": [],
+    "textures": [],
+    "audio": [],
+    "maps": [],
+    "configs": [],
+    "misc": []
+  }
+}
